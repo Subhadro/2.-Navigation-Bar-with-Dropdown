@@ -1,0 +1,302 @@
+[
+	{
+		"id": 1,
+		"name": "Tesla Model S",
+		"brand": "Tesla",
+		"price": 85000,
+		"fuel": "Electric",
+		"seats": 5,
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2018_Tesla_Model_S_75D.jpg/1200px-2018_Tesla_Model_S_75D.jpg",
+		"description": "A premium electric sedan with cutting-edge technology.\nOffers impressive acceleration and long-range capability.\nFeatures a sleek design and advanced autopilot functionality."
+	},
+	{
+		"id": 2,
+		"name": "Toyota Camry",
+		"brand": "Toyota",
+		"price": 25000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Camry/11344/1733916451269/front-left-side-47.jpg",
+		"description": "A reliable midsize sedan known for its durability.\nCombines comfort with efficient petrol performance.\nPerfect for families or daily commuters."
+	},
+	{
+		"id": 3,
+		"name": "Hyundai Creta",
+		"brand": "Hyundai",
+		"price": 18000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/106815/creta-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+		"description": "A compact SUV with bold styling and versatility.\nEquipped with a diesel engine for fuel efficiency.\nGreat for urban adventures or weekend getaways."
+	},
+	{
+		"id": 4,
+		"name": "Honda City",
+		"brand": "Honda",
+		"price": 20000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cYNWiow9cwk_nWwC42KOKXY2PHodfxekpA&s",
+		"description": "A stylish sedan with a reputation for reliability.\nOffers a smooth petrol-powered driving experience.\nIdeal for city driving with ample interior space."
+	},
+	{
+		"id": 5,
+		"name": "BMW 3 Series",
+		"brand": "BMW",
+		"price": 42000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=80&q=80",
+		"description": "A luxury sedan with sporty handling and elegance.\nPowered by a refined petrol engine for performance.\nBlends comfort with iconic German engineering."
+	},
+	{
+		"id": 6,
+		"name": "Audi A4",
+		"brand": "Audi",
+		"price": 45000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/10548/1732257078935/front-left-side-47.jpg",
+		"description": "A sophisticated sedan with a premium interior.\nFeatures a diesel engine for efficiency and power.\nKnown for its sleek design and advanced tech."
+	},
+	{
+		"id": 7,
+		"name": "Kia Seltos",
+		"brand": "Kia",
+		"price": 17000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg",
+		"description": "A trendy compact SUV with modern features.\nDelivers a peppy petrol engine for urban driving.\nOffers great value with a stylish look."
+	},
+	{
+		"id": 8,
+		"name": "MG Hector",
+		"brand": "MG",
+		"price": 19000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://media.zigcdn.com/media/model/2025/Mar/front-1-4-left-703122131_600x400.jpg",
+		"description": "A spacious SUV with a bold and rugged design.\nEquipped with a diesel engine for strong performance.\nPerfect for families seeking comfort and utility."
+	},
+	{
+		"id": 9,
+		"name": "Mercedes-Benz C-Class",
+		"brand": "Mercedes",
+		"price": 48000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://financialexpresswpcontent.s3.amazonaws.com/uploads/2018/06/2018-Mercedes-C-Class-facelift-medium.jpg",
+		"description": "A luxury sedan with unmatched elegance.\nPowered by a smooth petrol engine for refinement.\nOffers top-tier comfort and cutting-edge tech."
+	},
+	{
+		"id": 10,
+		"name": "Ford Mustang",
+		"brand": "Ford",
+		"price": 55000,
+		"fuel": "Petrol",
+		"seats": 4,
+		"image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/Mustang-2024/7939/1663750110692/front-left-side-47.jpg",
+		"description": "An iconic muscle car with aggressive styling.\nRoars with a powerful petrol engine for thrill-seekers.\nA symbol of performance and American heritage."
+	},
+	{
+		"id": 11,
+		"name": "Mahindra Thar",
+		"brand": "Mahindra",
+		"price": 16000,
+		"fuel": "Diesel",
+		"seats": 4,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAWcx7HoVFKbHjZTkNJaWUt3hO3zuYKRKYQ&s",
+		"description": "A rugged off-road SUV built for adventure.\nFeatures a diesel engine for tough terrains.\nCombines classic design with modern capability."
+	},
+	{
+		"id": 12,
+		"name": "Tata Nexon EV",
+		"brand": "Tata",
+		"price": 21000,
+		"fuel": "Electric",
+		"seats": 5,
+		"image": "https://img.autocarpro.in/autocarpro/438b795a-316b-4dc2-8bc8-769d7bc67cfc_601c377bff864a0381afae1441cb641c.jpg?w=750&h=490&q=75&c=1",
+		"description": "A compact electric SUV with eco-friendly appeal.\nOffers decent range and practical features.\nIdeal for urban drivers embracing green tech."
+	},
+	{
+		"id": 13,
+		"name": "Jeep Compass",
+		"brand": "Jeep",
+		"price": 28000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn&oldid9GcTZ-4jMMaovE4mrLW3Mb8CmTyje6oNyZqQp1A&s",
+		"description": "A versatile SUV with off-road capability.\nPowered by a diesel engine for rugged performance.\nBlends style with Jeep’s adventurous spirit."
+	},
+	{
+		"id": 14,
+		"name": "Volkswagen Polo",
+		"brand": "Volkswagen",
+		"price": 15000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/272x153/n/cw/ec/144689/taigun-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+		"description": "A compact hatchback with European flair.\nFeatures a peppy petrol engine for city driving.\nKnown for its solid build and agility."
+	},
+	{
+		"id": 15,
+		"name": "Renault Duster",
+		"brand": "Renault",
+		"price": 17000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/664x374/cw/specialVersions/5269.jpg?v=20170503105011&q=80",
+		"description": "A tough SUV designed for versatility.\nEquipped with a diesel engine for efficiency.\nGreat for both city roads and rough trails."
+	},
+	{
+		"id": 16,
+		"name": "Skoda Kushaq",
+		"brand": "Skoda",
+		"price": 22000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfpSjIRT02OrqsnGNe7zWLhws8bju8Hstzg&s",
+		"description": "A modern SUV with a sleek and bold look.\nPowered by a petrol engine for dynamic driving.\nOffers European design at an accessible price."
+	},
+	{
+		"id": 17,
+		"name": "Nissan Magnite",
+		"brand": "Nissan",
+		"price": 14000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqkm85QDPI18HY-2AM03mw3FYZduL8qVlQg&s",
+		"description": "A budget-friendly subcompact SUV with style.\nFeatures a petrol engine for economical performance.\nPerfect for young drivers or small families."
+	},
+	{
+		"id": 18,
+		"name": "Volvo XC40",
+		"brand": "Volvo",
+		"price": 44000,
+		"fuel": "Hybrid",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/131141/xc40-exterior-right-front-three-quarter-108.jpeg?isig=0&q=80&q=80",
+		"description": "A compact luxury SUV with hybrid efficiency.\nCombines Scandinavian design with safety features.\nIdeal for eco-conscious urban explorers."
+	},
+	{
+		"id": 19,
+		"name": "Land Rover Evoque",
+		"brand": "Land Rover",
+		"price": 60000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/37721/range-rover-evoque-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80",
+		"description": "A premium SUV with sophisticated styling.\nPowered by a diesel engine for robust performance.\nPerfect for luxury and off-road enthusiasts."
+	},
+	{
+		"id": 20,
+		"name": "Jaguar XE",
+		"brand": "Jaguar",
+		"price": 50000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjhcQ3YakORb29sPkZCAh3VnT0SlCAPy9XCw&s",
+		"description": "A sleek sedan with sporty British charm.\nFeatures a petrol engine for exhilarating drives.\nBlends elegance with cutting-edge technology."
+	},
+	{
+		"id": 21,
+		"name": "Chevrolet Trailblazer",
+		"brand": "Chevrolet",
+		"price": 23000,
+		"fuel": "Petrol",
+		"seats": 7,
+		"image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Chevrolet/Chevrolet-Trailblazer/1775/1560511456139/front-left-side-47.jpg",
+		"description": "A spacious SUV with seating for seven.\nPowered by a petrol engine for family trips.\nOffers a rugged look with practical utility."
+	},
+	{
+		"id": 22,
+		"name": "Maruti Suzuki Swift",
+		"brand": "Maruti",
+		"price": 10000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://www.marutisuzuki.com/price-list/-/media/D9EF6A0D83E64B66845A983BC63843ED.ashx",
+		"description": "A popular hatchback with zippy performance.\nFeatures a petrol engine for affordable driving.\nIdeal for city commutes and small families."
+	},
+	{
+		"id": 23,
+		"name": "Suzuki Ertiga",
+		"brand": "Suzuki",
+		"price": 13000,
+		"fuel": "Petrol",
+		"seats": 7,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhe9QVAOkW2z09ls9TlJEEAFOiE4UR81W17A&s",
+		"description": "A practical MPV with seating for seven.\nRuns on a petrol engine for everyday use.\nGreat for large families on a budget."
+	},
+	{
+		"id": 24,
+		"name": "Datsun GO",
+		"brand": "Datsun",
+		"price": 9000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/36449/Datsun-Go-Exterior-138944.jpg?wm=0&q=80&q=80",
+		"description": "An affordable hatchback for basic needs.\nFeatures a petrol engine for cost-effective travel.\nSimple design with decent space for five."
+	},
+	{
+		"id": 25,
+		"name": "Mini Cooper",
+		"brand": "Mini",
+		"price": 31000,
+		"fuel": "Petrol",
+		"seats": 4,
+		"image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/180421/cooper-s-exterior-right-front-three-quarter-11.jpeg?isig=0&q=80",
+		"description": "A quirky compact car with retro charm.\nPowered by a petrol engine for fun drives.\nPerfect for those who love standout style."
+	},
+	{
+		"id": 26,
+		"name": "Porsche Cayenne",
+		"brand": "Porsche",
+		"price": 90000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://images-porsche.imgix.net/-/media/A1F131A787D84B80BA7C85A90CA83246_6E5232CEA9DE4C8DA7E98A3309D0B259_CY24J5BOX0003-pasm?w=1759&q=85&auto=format",
+		"description": "A luxury SUV with sports car DNA.\nBoasts a powerful petrol engine for performance.\nCombines opulence with Porsche’s driving thrill."
+	},
+	{
+		"id": 27,
+		"name": "Lexus RX",
+		"brand": "Lexus",
+		"price": 75000,
+		"fuel": "Hybrid",
+		"seats": 5,
+		"image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/139465/rx-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80&q=80",
+		"description": "A premium SUV with hybrid efficiency.\nOffers a smooth ride with luxurious interiors.\nIdeal for those seeking comfort and eco-tech."
+	},
+	{
+		"id": 28,
+		"name": "Mazda CX-5",
+		"brand": "Mazda",
+		"price": 29000,
+		"fuel": "Diesel",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU5SyJVOBJOLVvvmEV4rJJrTKha-8D8u5vJw&s",
+		"description": "A stylish SUV with a sporty edge.\nPowered by a diesel engine for efficiency.\nKnown for its sharp design and handling."
+	},
+	{
+		"id": 29,
+		"name": "Subaru Outback",
+		"brand": "Subaru",
+		"price": 28000,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5UrI5jLNowcWXNX3VxN17rB0PTz9lVKn-Zg&s",
+		"description": "A rugged wagon built for adventure.\nFeatures a petrol engine with all-wheel drive.\nPerfect for outdoor enthusiasts and families."
+	},
+	{
+		"id": 30,
+		"name": "Fiat Punto",
+		"brand": "Fiat",
+		"price": 9500,
+		"fuel": "Petrol",
+		"seats": 5,
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCYLL32-GQ_24V9TKn99q8SKNu6oLTjtAWpA&s",
+		"description": "A compact hatchback with Italian flair.\nRuns on a petrol engine for budget-friendly drives.\nOffers a fun and practical city car option."
+	}
+]
