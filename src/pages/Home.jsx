@@ -81,7 +81,8 @@ const Home = () => {
             </div>
 
             {/* Main Section */}
-            <div className={`p-4 max-w-7xl mx-auto pb-32 transition-colors duration-300 ${theme === 'dark' ? 'bg-gray-900 text-white' : 'bg-white text-black'}`}>
+            <div className={`min-h-screen pb-32 p-4 max-w-7xl mx-auto transition-colors duration-300 ${theme === 'dark' ? 'bg-gray-900 text-white' : 'bg-white text-black'}`}>
+
                 <FilterBar filters={filters} setFilters={setFilters} theme={theme} />
 
                 {loading ? (
@@ -89,12 +90,13 @@ const Home = () => {
                         <Loader2 className="w-10 h-10 animate-spin text-blue-500" />
                     </div>
                 ) : error ? (
-                    <p className="text-center text-red-500 mt-10">{error}</p>
+                    <p className="text-center text-red-500 mt-10 h-screen">{error}</p>
                 ) : (
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 ">
                         {cars.length === 0 ? (
-                            <div className='w-auto h-screen mx-auto'> No cars found matching your criteria.</div>
+                            <div className='w-auto mx-auto h-screen'> No cars found matching your criteria.</div>
                         ) : (
+
                             cars.map((car) => <CarCard key={car.id} car={car} />)
                         )}
 

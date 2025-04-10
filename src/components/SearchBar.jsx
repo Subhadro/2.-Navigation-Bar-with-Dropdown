@@ -5,7 +5,7 @@ const SearchBar = ({ setSearch }) => {
         <input
             type="text"
             placeholder="Search cars..."
-            className="p-2 border w-full "
+            className="p-2 border w-full dark:text-black"
             onChange={e => setSearch(e.target.value)}
         />
     );
