@@ -64,7 +64,7 @@ const CardDetails = () => {
     }
 
     return (
-        <div className="max-w-6xl mx-auto p-6 h-screen">
+        <div className="max-w-6xl mx-auto p-6 min-h-screen">
             <button
                 onClick={() => navigate(-1)}
                 className="text-blue-600 dark:text-blue-400 hover:underline mb-6 text-sm"
@@ -72,7 +72,7 @@ const CardDetails = () => {
                 ← Go Back
             </button>
 
-            <div className="bg-gradient-to-br from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-2xl overflow-hidden flex flex-col md:flex-row gap-6 transition duration-300">
+            <div className="bg-gradient-to-br from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-2xl overflow-hidden flex flex-col md:flex-row gap-6 transition duration-300 ">
                 <div className="md:w-1/2">
                     <img
                         src={car.image}
