@@ -43,7 +43,7 @@ const CardDetails = () => {
 
     if (loading) {
         return (
-            <div className="flex justify-center items-center h-screen">
+            <div className="flex justify-center items-center min-h-screen">
                 <Loader2 className="w-10 h-10 animate-spin text-blue-500" />
             </div>
         );
@@ -74,11 +74,13 @@ const CardDetails = () => {
 
             <div className="bg-gradient-to-br from-white to-gray-100 dark:from-gray-800 dark:to-gray-900 rounded-xl shadow-2xl overflow-hidden flex flex-col md:flex-row gap-6 transition duration-300 ">
                 <div className="md:w-1/2">
+
                     <img
                         src={car.image}
                         alt={car.name}
-                        className="w-full h-80 object-cover rounded-t-xl md:rounded-l-xl md:rounded-tr-none"
+                        className="w-full h-auto object-cover rounded-t-xl md:rounded-l-xl md:rounded-tr-none"
                     />
+
                 </div>
 
                 <div className="md:w-1/2 p-6 flex flex-col justify-between text-gray-800 dark:text-white">

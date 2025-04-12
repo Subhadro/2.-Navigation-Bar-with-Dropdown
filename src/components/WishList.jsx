@@ -31,7 +31,7 @@ const Wishlist = () => {
     };
 
     return (
-        <div className="h-screen w-screen px-4 max-w-6xl mx-auto">
+        <div className="min-h-screen w-screen px-4 max-w-6xl mx-auto">
             <h2 className="pt-10  pb-5 text-4xl font-bold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-600">
                 ❤️ Your Wishlist
             </h2>

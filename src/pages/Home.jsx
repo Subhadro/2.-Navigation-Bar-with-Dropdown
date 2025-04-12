@@ -86,15 +86,15 @@ const Home = () => {
                 <FilterBar filters={filters} setFilters={setFilters} theme={theme} />
 
                 {loading ? (
-                    <div className="flex justify-center items-center h-screen">
+                    <div className="flex justify-center items-center min-h-screen">
                         <Loader2 className="w-10 h-10 animate-spin text-blue-500" />
                     </div>
                 ) : error ? (
-                    <p className="text-center text-red-500 mt-10 h-screen">{error}</p>
+                    <p className="text-center text-red-500 mt-10 min-h-screen">{error}</p>
                 ) : (
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 ">
                         {cars.length === 0 ? (
-                            <div className='w-auto mx-auto h-screen'> No cars found matching your criteria.</div>
+                            <div className='w-auto mx-auto min-h-screen'> No cars found matching your criteria.</div>
                         ) : (
 
                             cars.map((car) => <CarCard key={car.id} car={car} />)
