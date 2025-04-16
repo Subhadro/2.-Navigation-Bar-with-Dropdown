@@ -20,19 +20,3 @@ A sleek, responsive navigation bar built with **React** and **TailwindCSS** for 
 - [TailwindCSS](https://tailwindcss.com/)
 - [Lucide React](https://lucide.dev/)
 
----
-
-## 📸 Preview
-
-![GigFloww Navbar Preview](https://via.placeholder.com/800x400?text=GigFloww+Navbar+Preview)
-
-> _Replace the above placeholder with an actual screenshot or GIF of your navbar in action._
-
----
-
-## 🔧 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/gigfloww-navbar.git
-   cd gigfloww-navbar
